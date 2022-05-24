@@ -62,7 +62,7 @@ body{
   border: solid 2px black;
   margin-left: 45px;
   margin-top: 13px;
-  background-image: url(./pokemon.gif);
+  background-image: url(pokemon.gif);
   background-size: 190px;
   background-repeat: no-repeat;
 }
